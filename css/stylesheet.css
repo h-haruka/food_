@@ -119,18 +119,12 @@ body {
   width: 25%;
 }
 
-
+/* footer */
 
 footer {
   text-align: center;
   color: white;
   background-color: #FF7F00;
-  padding-bottom: 50px;
+  padding: 50px 0px;
 }
 
-footer h4 {
-  padding-top: 25px;
-  font-weight: lighter;
-}
-
-/*# sourceMappingURL=stylesheet.css.map */
